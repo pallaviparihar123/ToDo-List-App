@@ -27,7 +27,7 @@ People have lot of work and have to remainder the all those things is quite hard
 
 ## Screenshots
 
-![Desktop view](Des_size_img.png)
+![Desktop view](src/todo-project/Des_size_img.png)
 
 ![mobile view](mobile_view.png)
 
