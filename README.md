@@ -23,7 +23,7 @@ People have lot of work and have to remainder the all those things is quite hard
 
 ## The challenge
 
-- My challenge was to build out this Tip Calculator is that i have to think validation.
+- My challenge was to build out this ToDo List App with the help of Hooks, functional component and map & filter component.
 
 ## Screenshots
 
