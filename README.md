@@ -34,9 +34,9 @@ People have lot of work and have to remainder the all those things is quite hard
 
 ## Links
 
--Solution URL: @(https://github.com/pallaviparihar123/Tip-Calulator)
+-Solution URL: @(https://github.com/pallaviparihar123/ToDo-List-App)
 
--Live Site URL: @(https://papaya-daifuku-a522a6.netlify.app/)
+-Live Site URL: @(https://capable-daifuku-60555f.netlify.app/)
 ## Author
 
 - GitHub link - [@PallaviParihar](https://www.github.com/pallaviparihar123)
