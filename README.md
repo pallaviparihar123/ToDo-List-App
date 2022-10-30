@@ -29,7 +29,7 @@ People have lot of work and have to remainder the all those things is quite hard
 
 ![Desktop view](src/todo-project/Des_size_img.png)
 
-![mobile view](mobile_view.png)
+![mobile view](src/todo-project/mobile_view.png)
 
 
 ## Links
