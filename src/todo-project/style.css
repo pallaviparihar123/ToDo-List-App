@@ -66,3 +66,8 @@ ul li{
 ul li button{
     margin-right: 1em;
 }
+@media screen and (max-width: 480px) {
+    .center{
+        width: 80%;
+    }
+  }
